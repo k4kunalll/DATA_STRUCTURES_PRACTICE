@@ -1,21 +1,35 @@
 # DATA_STRUCTURES_PRACTICE
 
-Arrays
-Stacks
-Trees (Binary Trees, Binary Search Trees, Heap), Linked
+---
 
-List
-Queue
-Graphs
-Union Find Data Structure
-(DFS, BFS)
-Dynamic
+## **Topics**
 
-Programmin
-Recursion & Backtracking
-Divide & Conquer
-Dictionaries
+- **Arrays**  
+- **Stacks**  
+- **Trees**  
+  - Binary Trees  
+  - Binary Search Trees  
+  - Heap  
+- **Linked List**  
+- **Queue**  
+- **Graphs**  
+- **Union Find Data Structure**  
+  - DFS (Depth-First Search)  
+  - BFS (Breadth-First Search)  
 
-(Maps, Hash), 
-Minimum spanning tree, 
-String Algorithms: e.g. KMP.
+---
+
+## **Techniques**
+
+- **Dynamic Programming**  
+- **Recursion & Backtracking**  
+- **Divide & Conquer**  
+
+---
+
+## **Additional Concepts**
+
+- **Dictionaries (Maps, Hash)**  
+- **Minimum Spanning Tree**  
+- **String Algorithms**  
+  - e.g., KMP (Knuth-Morris-Pratt Algorithm)  
